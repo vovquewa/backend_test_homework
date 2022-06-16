@@ -1,2 +1,1 @@
-print('Я домашка')
-print('new commit')
+i: <int> = 42 
